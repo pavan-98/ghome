@@ -21,3 +21,6 @@ All of them are Listed Below Along with Description
      
 6. Web Updater (Demostration Upon Original Code)
      - Update or Upload New Code to the Esp Module using the Local IP and the code will Automatically execute and run itself. First you need to Execute the Code and Save it as a bin file or Extract it from a temp file , google if you don't know to open a temp folder.
+
+
+#### Use Blynk App & IFTTT Configuration to Set up Blynk Server and set it up for Google Home Commands to Control Devices.
