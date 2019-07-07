@@ -7,7 +7,7 @@
 
 const char* host = "pk";
 const char* ssid = "Area 51 Test Site";
-const char* password = "nopassword";
+const char* password = "password";
 
 ESP8266WebServer httpServer(80);
 ESP8266HTTPUpdateServer httpUpdater;
