@@ -24,3 +24,6 @@ All of them are Listed Below Along with Description
 
 
 #### Use Blynk App & IFTTT Configuration to Set up Blynk Server and set it up for Google Home Commands to Control Devices.
+
+
+#### A Youtube Video containing all the Configurations and Set up will be Uploaded Soon.
