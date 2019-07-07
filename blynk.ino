@@ -7,7 +7,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "7e4b75eee2e445d89d4648006a6a63cf";
+char auth[] = "@#%%@$@$@$@%%@cf"; //obtain from blynk app
 
 
 char ssid[] = "newpk";
